@@ -1,0 +1,7 @@
+langchain
+langchain_community
+wikipedia
+arxiv
+langchain_openai
+langchain_text_splitters
+dotenv
