@@ -2,6 +2,9 @@ langchain
 langchain_community
 wikipedia
 arxiv
-langchain_openai
+huggingface-hub
+langchain-ollama
 langchain_text_splitters
-dotenv
+langchain-text-splitters
+langchain-core
+ollama  
