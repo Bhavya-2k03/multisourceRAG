@@ -1,9 +1,9 @@
 # multisourceRAG
 A LangChain-powered multi-source Retrieval-Augmented Generation (RAG) system that can answer queries using:  
-1.Wikipedia -> for general knowledge  
-2.arXiv –> for research papers  
-3.LangSmith documentation (via FAISS retriever) –> for project-specific knowledge  
-Built with Ollama + Gemma3  
+1. Wikipedia -> for general knowledge  
+2. arXiv –> for research papers  
+3. LangSmith documentation (via FAISS retriever) –> for project-specific knowledge  
+Built with Ollama & Gemma3  
 
 1. **Clone the repository**
 ```bash
