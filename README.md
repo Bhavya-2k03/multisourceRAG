@@ -5,6 +5,7 @@ A LangChain-powered multi-source Retrieval-Augmented Generation (RAG) system tha
 3. LangSmith documentation (via FAISS retriever) –> for project-specific knowledge  
 Built with Ollama & Gemma3  
 
+## ⚙️ Installation
 1. **Clone the repository**
 ```bash
 git clone https://github.com/yourusername/multisourceRAG.git
