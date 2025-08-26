@@ -20,4 +20,4 @@ pip install -r requirements.txt
 ```bash
 ollama pull gemma3:4b
 ```
-5. You are ready to go :)
+5. You are ready now to go :)
